@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiamF2b2hpcjAwMDEiLCJhIjoiY2xmYjRwY2hkMDZ3dTN5cGc1dDRwbjhtdSJ9.aF5GRx-aqwXqpT4eUlsm1g</string>
+
+    <string name="tv_zakaz">Заказы</string>
+
+</resources>
